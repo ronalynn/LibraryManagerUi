@@ -41,7 +41,7 @@ class ListBooksComponent extends Component {
 
     render() {
         return (
-            <div class="pt-1 pb-5">
+            <div class="pt-3 pb-5">
                 <h2 className="text-center">Book List</h2>
                 
                 <div align="right">
