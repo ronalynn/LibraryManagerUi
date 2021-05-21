@@ -1,7 +1,6 @@
 # LibraryManagerUi
 This is the ui for [LibraryManagerSpring](https://github.com/ronalynn/LibraryManagerSpring).
 
-
 ## Getting Started with Create React App
 
 1. Clone the backend repo: [LibraryManagerSpring](https://github.com/ronalynn/LibraryManagerSpring).
